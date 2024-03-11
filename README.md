@@ -3,4 +3,4 @@ Codes and reports for four assignments in FIN3080 Investment Analysis and Portfo
 
 **Academic Code:
 
-All assignments were uploaded for plagiarism detection. Copying the codes is strictly prohibited and may lead to a F once detected.**
+All assignments were uploaded for plagiarism detection. Copying the codes is strictly prohibited and may lead to a F once detected. **
